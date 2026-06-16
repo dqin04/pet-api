@@ -1,0 +1,9 @@
+{
+  "pets": [
+    { "name": "蛋卷", "gender": "公", "age": 1, "neutered": true, "type": "cat" },
+    { "name": "大白", "gender": "母", "age": 2, "neutered": true, "type": "cat" },
+    { "name": "旺财", "gender": "公", "age": 3, "neutered": false, "type": "dog" },
+    { "name": "柯基", "gender": "母", "age": 1, "neutered": true, "type": "dog" },
+    { "name": "布偶猫", "gender": "母", "age": 2, "neutered": true, "type": "cat" }
+  ]
+}
